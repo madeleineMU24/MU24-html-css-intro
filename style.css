@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(254, 207, 121);
+    font-family: fantasy;
+}
+
+h1, h2, h3, h4, h5{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    color: rgb(41, 41, 41);
+    font-family: fantasy;
+}
